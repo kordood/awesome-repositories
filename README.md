@@ -12,26 +12,26 @@ A collection of GitHub repositories I've given a star.
 
 ## Content
 
-### [Lecture](https://github.com/kordood/awesome-repositories#lecture-1)
-  - [Overall](https://github.com/kordood/awesome-repositories#overall)
-  - [System](https://github.com/kordood/awesome-repositories#system)
-  - [Machine Learning (AI)](https://github.com/kordood/awesome-repositories#machine-learning-ai)
-  - [Program Language](https://github.com/kordood/awesome-repositories#program-language)
-  - [Algorithm / Coding Test](https://github.com/kordood/awesome-repositories#algorithm--coding-test)
-  - [Miscellaneous](https://github.com/kordood/awesome-repositories#miscellaneous)
+### [Lecture](#lecture-1)
+  - [Overall](#overall)
+  - [System](#system)
+  - [Machine Learning (AI)](#machine-learning-ai)
+  - [Program Language](#program-language)
+  - [Algorithm / Coding Test](#algorithm--coding-test)
+  - [Miscellaneous](#miscellaneous)
 
-### [Project](https://github.com/kordood/awesome-repositories#project-1)
-  - [System](https://github.com/kordood/awesome-repositories#system-1)
-  - [Platform](https://github.com/kordood/awesome-repositories#platform)
-  - [Application](https://github.com/kordood/awesome-repositories#application)
-  - [Program Analysis](https://github.com/kordood/awesome-repositories#program-analysis)
-  - [Program Language](https://github.com/kordood/awesome-repositories#program-language-1)
-  - [Miscellaneous](https://github.com/kordood/awesome-repositories#miscellaneous-1)
+### [Project](#project-1)
+  - [System](#system-1)
+  - [Platform](#platform)
+  - [Application](#application)
+  - [Program Analysis](#program-analysis)
+  - [Program Language](#program-language-1)
+  - [Miscellaneous](#miscellaneous-1)
 
 
-### [Job Preparation](https://github.com/kordood/awesome-repositories#job-preparation-1)
-  - [Recruitment](https://github.com/kordood/awesome-repositories#recruitment)
-  - [Interview](https://github.com/kordood/awesome-repositories#interview)
+### [Job Preparation](#job-preparation-1)
+  - [Recruitment](#recruitment)
+  - [Interview](#interview)
 
 ---
 
