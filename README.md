@@ -10,28 +10,28 @@ A collection of GitHub repositories I've given a star.
 
 ---
 
-## Contents
+## Content
 
-### Lecture
-  - Overall
-  - System
-  - Machine Learning (AI)
-  - Program Language
-  - Algorithm / Coding Test
-  - MIscellaneous
+### [Lecture](https://github.com/kordood/awesome-repositories#lecture-1)
+  - [Overall](https://github.com/kordood/awesome-repositories#overall)
+  - [System](https://github.com/kordood/awesome-repositories#system)
+  - [Machine Learning (AI)](https://github.com/kordood/awesome-repositories#machine-learning-ai)
+  - [Program Language](https://github.com/kordood/awesome-repositories#program-language)
+  - [Algorithm / Coding Test](https://github.com/kordood/awesome-repositories#algorithm--coding-test)
+  - [Miscellaneous](https://github.com/kordood/awesome-repositories#miscellaneous)
 
-### Project
-  - System
-  - Platform
-  - Application
-  - Program Analysis
-  - Program Language
-  - Miscellaneous
+### [Project](https://github.com/kordood/awesome-repositories#project-1)
+  - [System](https://github.com/kordood/awesome-repositories#system-1)
+  - [Platform](https://github.com/kordood/awesome-repositories#platform)
+  - [Application](https://github.com/kordood/awesome-repositories#application)
+  - [Program Analysis](https://github.com/kordood/awesome-repositories#program-analysis)
+  - [Program Language](https://github.com/kordood/awesome-repositories#program-language-1)
+  - [Miscellaneous](https://github.com/kordood/awesome-repositories#miscellaneous-1)
 
 
-### Job Preparation
-  - Recruitment
-  - Interview
+### [Job Preparation](https://github.com/kordood/awesome-repositories#job-preparation-1)
+  - [Recruitment](https://github.com/kordood/awesome-repositories#recruitment)
+  - [Interview](https://github.com/kordood/awesome-repositories#interview)
 
 ---
 
