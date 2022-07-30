@@ -94,6 +94,8 @@ A collection of GitHub repositories I've given a star.
     - 안드로이드의 모든 기능을 적용한 애플리케이션 (개발자를 위한 참고 자료, Kotlin 언어와 Jetpack으로 구현됨)
   - [home-assistant](https://github.com/home-assistant)
     - 오픈소스 홈 자동화
+  - [livebud / bud](https://github.com/livebud/bud)
+    - Go 언어를 위한 풀스택 웹 프레임워크
 
 ### Application
   - [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk) | [(한국어 설명)](https://github.com/rustdesk/rustdesk/blob/master/README-KR.md)
@@ -116,6 +118,14 @@ A collection of GitHub repositories I've given a star.
     - Notion 커스터마이징 도구
   - [bryandlee / malnyun_faces](https://github.com/bryandlee/malnyun_faces)
     - 이말년씨리즈 그림체로 변환해주는 도구
+  - [topjohnwu / Magisk](https://github.com/topjohnwu/Magisk)
+    - Android 커스터마이징을 위한 오픈소스 suite (*구글 공식 지원 제품이 아님*)
+  - [spacedriveapp / spacedrive](https://github.com/spacedriveapp/spacedrive)
+    - 크로스플랫폼 파일 탐색기, 가상분산파일시스템 (VDFS)
+  - [3b1b / manim](https://github.com/3b1b/manim)
+    - 3Blue1Brown에서 제작한 수학 애니메이션 엔진
+  - [sharkdp / fd](https://github.com/sharkdp/fd)
+    - `find` 명령어를 fast and user-friendly하게 대체
 
 ### Program Analysis
   - [GJDuck / e9patch](https://github.com/GJDuck/e9patch)
@@ -168,10 +178,16 @@ A collection of GitHub repositories I've given a star.
     - Fuzzing as a Service Platform
   - [SoftSec-KAIST / Fuzzing-Survey](https://github.com/SoftSec-KAIST/Fuzzing-Survey)
     - Fuzzing 연구의 계보를 분석, 정리하는 데이터베이스
+  - [winsiderss / systeminformer](https://github.com/winsiderss/systeminformer)
+    - 시스템 자원 모니터링, 소프트웨어 디버깅, 악성코드 탐지 (In windows 7 or higher)
+  - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)
+    - NSA(미국 국가안보국)에서 지원하는 소프트웨어 리버싱 프레임워크
 
 ### Program Language
   - [assertive-lang / asserlang](https://github.com/assertive-lang/asserlang)
-    - 어쩔프로그래밍~ㅋㅋ
+    - 어쩔프로그래밍\~ㅋㅋ
+  - [art-w / unicorn](https://github.com/art-w/unicorn)
+    - GUI 프로그래밍을 순전히 함수화할 수 있을까?
 
 ### Miscellaneous
   - [sindresorhus / awesome](https://github.com/sindresorhus/awesome)
@@ -224,3 +240,5 @@ A collection of GitHub repositories I've given a star.
     - 신입 개발자 기술 면접 준비
   - [brave-people / brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
     - 현직자가 해설하는 기술 면접
+  - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
+    - 소프트웨어 엔지니어가 되기 위한 기초 공부 계획
